@@ -1,4 +1,4 @@
-# ProjectOOP-Store-Control
+# Project OOP-Store-Control
 
 # About
 * It's a platform for store control, where is possible to register, edit, search and delete employees (CRUD), suppliers, products and customers.
