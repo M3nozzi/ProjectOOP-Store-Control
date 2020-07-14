@@ -1,7 +1,7 @@
 # ProjectOOP-Store-Control
 
 # About
-* It's a platform for store control, where is possible to register, edit, search and delete employees, suppliers, products and customers.
+* It's a platform for store control, where is possible to register, edit, search and delete employees (CRUD), suppliers, products and customers.
 It's also possible to control payment amount you can control the payment. 
 
 <img src="https://res.cloudinary.com/menozzi/image/upload/v1590420553/PROJECT%20POO%20-%20Store%20Control/Tela_Login_kaclbt.png" width="400">
@@ -27,4 +27,4 @@ This project use:
 
 * [**Fabio Menozzi**](https://github.com/M3nozzi)
 
-* Store Control - Published in December-19th, 2019.
+* Store Control 0.1 version - Built in December-19th, 2019.
